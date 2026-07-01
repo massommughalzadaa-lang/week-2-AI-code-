@@ -1,0 +1,5 @@
+EXPENSE SUMMARY
+====================
+Total expenses count: 8
+Total amount spent: Rs 610.0
+Unique categories: {'fruits', 'fruite'}
